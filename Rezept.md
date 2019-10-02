@@ -29,7 +29,7 @@ Ein Rezept für einen Gugelhupf.
 
 ## Rezept
 
-* 200g Mehl mit Backpulver, 200g Nüssen und 100g Schokolade mischen.
+* 200g Mehl mit Backpulver, Vanillezucker, 200g Nüssen und 100g Schokolade mischen.
 * 200g Butter mit 67g Zucker und Salz schaumig rühren.
 * 5 Mal wiederholen:
   * Einen Eidotter einrühren
