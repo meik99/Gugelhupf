@@ -1,6 +1,6 @@
 # Gugelhupf
 
-Ein Rezept für einen [Gugelhupf](https://de.wikipedia.org/wiki/Gugelhupf).
+Ein Rezept für einen [Gugelhupf](https://wikipedia.org/wiki/Gugelhupf).
 
 ## Zutaten
 
